@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 void main() {
   int medallas = 100;
 
